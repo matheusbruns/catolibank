@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "32474925977",
+    "project_id": "catolibank",
+    "storage_bucket": "catolibank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32474925977:android:3d4c4cb0c1ec1845696108",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32474925977-1sbp5c38pd1jknl5divhd8ktdml5oi1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApmE2-KuyBxg2r5oBtuveUWY_F4QsKpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32474925977-1sbp5c38pd1jknl5divhd8ktdml5oi1o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32474925977-d21j8cn2ci31ll50r11hc52sifoj4qrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
